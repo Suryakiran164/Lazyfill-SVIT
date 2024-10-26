@@ -1,6 +1,6 @@
 # Lazyfill feedback for SVIT ERP
 
-Lazyfill is a very basic userscript helps to reduce huaman intervention while selecting answers for feedback. This script is mainly made for lazy folks.
+Lazyfill is a very basic userscript helps to reduce human intervention while selecting answers for feedback. This script is mainly made for lazy folks.
 Made with ❤️ by [Suryakiran164](https://github.com/Suryakiran164)
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
